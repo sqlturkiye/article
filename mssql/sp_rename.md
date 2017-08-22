@@ -16,3 +16,13 @@ CREATE PROCEDURE dbo.ssp_Test_1
 AS 
 SELECT 'Test_1'
 ````
+
+Oluşturduğumuz bu sp_ yi sys.sql_modules te sorguluyoruz.
+
+``
+SELECT
+	*
+FROM sys.sql_modules sm
+``
+
+
