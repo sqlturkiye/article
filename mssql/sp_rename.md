@@ -1,3 +1,4 @@
+# sp_rename ile Stored Procedure Adlarınızı Değiştirmeyin !
 
 Saklı yordamlarımız yani Stored Procedure ‘lerimizin isimlerini sp_rename komutu ile değiştirmeyiniz. Bunun yerine DROP-CREATE
 yapmanız en sağlıklı yöntemdir.
