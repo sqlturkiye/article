@@ -24,5 +24,5 @@ SELECT
 	*
 FROM sys.sql_modules sm
 ``
-
+![sp_rename_1](https://user-images.githubusercontent.com/31235407/29560637-50cf64a2-873b-11e7-8c71-b8da0bc21098.png)
 
